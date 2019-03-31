@@ -80,7 +80,7 @@ header .menu a:hover{
 
 aside{
     width: 30%;
-    background: rgb(25, 46, 231);
+    background: #061b39;
     padding: 30px;
     display: flex;
     flex-direction: column;
@@ -91,9 +91,9 @@ aside{
 aside .lado{
     font-size: 30px;
     text-aling: center;
-    color: #fff;
+    color: #061b39;
     padding: 50px 0;
-    background: rgb(6, 7, 92);
+    background:#e6ebf1;
 }
 
 footer{
